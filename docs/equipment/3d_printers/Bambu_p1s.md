@@ -3,9 +3,9 @@
 
 Our Bambu P1S has the following details:
 
-Name: **Delilah**
-IP: 172.16.0.201
-Access code: 24877583
+Name: **Delilah**<br/>
+IP: 172.16.0.201<br/>
+Access code: 15932950
 
 Please note the access code may change from time to time if people in the space make a mistake on the printer. Please see the 'how to find the code' section for how to find the access code from the printer.
 
