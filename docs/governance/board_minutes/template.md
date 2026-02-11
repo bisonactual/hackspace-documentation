@@ -7,7 +7,6 @@
 ## Attendees
 People who attended:
 
-- Ross Ballinger
 - Joseph Christian - Chair
 - Jordon Colclough
 - John Deptford
