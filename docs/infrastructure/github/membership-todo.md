@@ -31,7 +31,7 @@ some of this we might need but at the very least could do with being condensed d
     This is some notes associated with the setup of the original mailing list.  
     However ideally it needs updates from whoever is maintaining the mailing list at the moment.
   * https://github.com/HACManchester/mta-sts.hacman.org.uk  
-    This repos is needed for the mta-sts feature of the domain, it needs to remain seperate
+    This repo is needed for the mta-sts feature of the domain, it needs to remain seperate
   * https://github.com/HACManchester/Cloud-Forum2Telegram  
     This posts notification to telegram on new mailing list post
 
